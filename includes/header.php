@@ -34,4 +34,4 @@ include_once DATAPATH.'meta_tags.php';
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 <div id="wrap">
-<h1>--Main Heading--</h1>
+<h1>Nathalie Vin</h1>
