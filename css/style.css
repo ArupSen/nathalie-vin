@@ -49,7 +49,7 @@ content: "";}
 
 /* COLOUR PALETTE
 
-#C9C9C9 - very pale grey
+#e8e0dd - main background colour
 #B0B0B0 - medium grey
 #666666 - darker grey
 #B31E00 - red
@@ -59,7 +59,7 @@ content: "";}
 
 /* BG IMAGE PATH url('../images/my_image.gif') */
 /*the main global rules*/
-body{font-family:Arial, sans-serif;font-size:100.01%;position:relative;margin:0 auto;background-color:#FFFFFF;background: url('../images/nathalie_grid.png') no-repeat #e8e0dd;}
+body{font-family:Arial, sans-serif;font-size:100.01%;position:relative;margin:0 auto;background-color:#FFFFFF;background: url('../images/nathalie_grid.png') no-repeat #e8e0dd 50% 0;}
 div#wrap{}
 
 
