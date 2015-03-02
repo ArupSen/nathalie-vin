@@ -14,4 +14,13 @@
 				prev: '#prev',
 				next: '#next'
 			});
+  // hovering over the big thumbnails on works pages
+  $('a.thumbnail').on('mouseenter', function() {
+    $(this).find('span').show();
+    $(this).find('img').css({"opacity":0.7, "border": "4px solid #fff"});
+  });
+  $('a.thumbnail').on('mouseleave', function() {
+    $(this).find('span').hide();
+    $(this).find('img').css({"opacity":1, "border":"none"});
+  });
 }());
