@@ -6,10 +6,10 @@ require_once INCPATH.'header.php';
 navbar();
 
 // the unique contents will go here up to the footer
-img_tag('b&w2.jpg');
+img_tag('b&w2.jpg','','banner');
 ?>
 <h2>EXHIBITIONS</h2>
-<div class="dates">
+<div class="dates container">
 <ul>
 <li><h3>Les Rencontres Internationales 2014 </h3>- British group exhibition "BrittaMosaica", Museum des Beaux-Arts, Chartres, France 2014.</li>
 
