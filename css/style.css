@@ -195,6 +195,24 @@ a span.fa-caret-left {
 a span.fa-caret-right {
   -webkit-transform: rotate(45deg);
 }
+/* exhibitions page */
+img.banner {
+  margin: 0 auto;
+}
+.dates ul {
+  margin: 0 auto;
+  max-width: 941px;
+}
+.dates li {
+  width: 310px;
+  float: left;
+  text-align: center;
+  padding: 30px;
+  height: 200px;
+}
+.exhibitions h2, .exhibitions h3 {
+  text-align: center;
+}
 /*footer image link - arup designs*/
 #footer{}
 
