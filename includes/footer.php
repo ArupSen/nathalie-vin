@@ -12,6 +12,7 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 <script src="<?php echo JSPATH.'jquery.carouFredSel-5.6.4-packed.js'; ?>"></script>
+<script src="<?php echo JSPATH.'easing.1.3.js'; ?>"></script>
 <script src="<?php echo JSPATH.'main.js'; ?>"></script>
 <?php
 //Google Analytics: change UA-XXXXX-X to be your site's ID.
