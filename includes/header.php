@@ -27,7 +27,7 @@ include_once DATAPATH.'meta_tags.php';
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 <link rel="stylesheet" href="<?php echo CSSPATH.'style.css'; ?>" type="text/css" media="screen" />
 <link rel="shortcut icon" href="<?php echo IMGPATH.'favicon.ico'; ?>" type="image/x-icon" />
-
+<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/da60e66c-bceb-417d-ac7e-387c37a1174d.css"/>
 </head>
 <body class="<?php echo $filename; ?>">
         <!--[if lt IE 8]>
