@@ -9,17 +9,18 @@ navbar();
 img_tag('b&w2.jpg','','banner');
 ?>
 <h2>EXHIBITIONS</h2>
+<hr>
 <div class="dates container">
 <ul>
-<li><h3>Les Rencontres Internationales 2014 </h3>- British group exhibition "BrittaMosaica", Museum des Beaux-Arts, Chartres, France 2014.</li>
+<li><h3>Les Rencontres Internationales</h3>- British group exhibition "BrittaMosaica", Museum des Beaux-Arts, Chartres, France (2014).</li>
 
-<li><h3>Les Rencontres Internationales 2014 </h3>- International competition - Group exhibition, Prix Picassiette with a "special distinction" with "Multiverse", Chapelle Saint Fulbert, Chartres, France 2014.</li>
+<li><h3>Les Rencontres Internationales</h3>- International competition - Group exhibition, Prix Picassiette with a "special distinction" with "Multiverse", Chapelle Saint Fulbert, Chartres, France (2014).</li>
 
 <li><h3>RavennaMosaico Mosaic Festival </h3>- Group exhibition "Opere dal Mondo", Ravenna, Italy (2013)</li>
 
 <li><h3>Mosaic Art International </h3>– Group exhibition, The Museum of Glass in Tacoma, Washington, U.S.A. (2013)</li>
 
-<li><h3>Les Rencontres Internationales de Mosaiques </h3>- Group exhibition - Category Professional, Chartres, France (2012)</li>
+<li><h3>Les Rencontres Internationales <br>de Mosaiques </h3>- Group exhibition - Category Professional, Chartres, France (2012)</li>
 
 <li><h3>Mosaic Art International </h3>– Group exhibition, The Lexington Center Museum and Gallery in Lexington, Kentucky, U.S.A. (2012)</li>
 
