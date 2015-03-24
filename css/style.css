@@ -64,7 +64,7 @@ body{
   font-size:100.01%;
   position:relative;
   margin:0 auto;
-  background: /*url('../images/nathalie_grid.png') no-repeat 50% 0*/ #dad1ce;
+  background: /*url('../images/nathalie_grid.png') no-repeat 50% 0*/ #ede5e3;
 }
 div#wrap{}
 
@@ -74,11 +74,11 @@ div#wrap{}
 
 /*main heading and sub heading*/
 h1 {
-  background: url('../images/nathalie_logo.png') no-repeat;
+  background: url('../images/web-logo.png') no-repeat;
   height: 47px;
   width: 341px;
   font-size: 0;
-  margin: 73px auto 47px;
+  margin: 73px auto 7px;
 }
 
 
@@ -104,7 +104,11 @@ ul#navbar{
 ul#navbar li{}
 
 div#clear {clear:left;}
-ul#navbar li a{text-decoration:none;}
+ul#navbar li a{
+  text-decoration:none;
+  color:#d9b613;
+  text-transform: capitalize;
+}
 
 /* home page */
 #wrapper {
@@ -208,7 +212,26 @@ img.banner {
   float: left;
   text-align: center;
   padding: 30px;
-  height: 200px;
+  height: 140px;
+  font-size: 13px;
+  font-family: "Times New Roman";
+  color: #999;
+  letter-spacing: 1px;
+}
+.dates h3 {
+  font-size: 12px;
+  margin-bottom: 0.5em;
+  color: #666;
+  letter-spacing: 0;
+}
+.exhibitions hr {
+  border-top: 1px solid #999;
+  width: 120px;
+  margin-top: 10px;
+}
+.exhibitions h2 {
+  color: #999;
+  margin-top: 1em;
 }
 .exhibitions h2, .exhibitions h3 {
   text-align: center;
