@@ -9,19 +9,19 @@ navbar();
 <div id="wrapper"> <!-- cool carousel -->
 <div id="carousel">
 <?php
-img_tag('1.jpg');
+img_tag('1a.jpg');
 ?>
 <?php
-img_tag('2.jpg');
+img_tag('2a.jpg');
 ?>
 <?php
-img_tag('3.jpg');
+img_tag('3a.jpg');
 ?>
 <?php
-img_tag('4.jpg');
+img_tag('4a.jpg');
 ?>
 <?php
-img_tag('5.jpg');
+img_tag('5a.jpg');
 ?>
 
 </div> <!-- end of #carousel -->
