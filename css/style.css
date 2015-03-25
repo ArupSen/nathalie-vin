@@ -109,22 +109,27 @@ ul#navbar li a{
   color:#d9b613;
   text-transform: capitalize;
 }
+.caret {
+  color: inherit;
+  left: initial;
+}
 
 /* home page */
 #wrapper {
   background-color: #fff;
-  width: 100%;
-  height: 500px;
+  width: 102%;
+  height: 488px;
   margin-top: -40px;
   overflow: hidden;
   position: absolute;
-  top: 240px;
+  top: 150px;
   left: 0;
 
 }
 #carousel img {
   display: block;
   float: left;
+  border: 4px solid #fff;
 }
 #prev, #next {
   background-color: rgba(255, 255, 255, 0.7);
@@ -145,13 +150,15 @@ ul#navbar li a{
   right: -400px;
 }
 /* works pages - commissions and fine art */
-a span {
+a.thumbnail span {
   display: none;
   position: absolute;
   top: 50%;
   text-transform: uppercase;
   text-align: center;
-  left: 30%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
   color: #333;
 }
 a.thumbnail {
@@ -235,6 +242,24 @@ img.banner {
 }
 .exhibitions h2, .exhibitions h3 {
   text-align: center;
+}
+/* contact page */
+
+.contact h2 {
+  color: #999;
+  text-align: center;
+}
+.contact hr {
+  border-top: 1px solid #999;
+  width: 90px;
+  margin-top: 10px;
+}
+.contact-info {
+  position: relative;
+  top: -220px;
+}
+.contact-info a {
+  color: #999;
 }
 /*footer image link - arup designs*/
 #footer{}
