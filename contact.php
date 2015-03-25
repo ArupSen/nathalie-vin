@@ -11,8 +11,9 @@ navbar();
 <?php
 img_tag('contact-asset.jpg');
 ?>
-  <div class="contact-info">
+  <div class="contact-info col-sm-6 col-md-6">
     <h2>CONTACT</h2>
+    <hr>
     For any queries please do not hesitate to contact me<br>
     (m) 078 4030 3103<br>
     (w) 020 8 690 00 14<br>
