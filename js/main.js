@@ -1,20 +1,21 @@
 // Site specific js code
 (function(){
   'use strict';
-	jQuery('#carousel').carouFredSel({
-    width: '100%',
+	jQuery("#carousel").carouFredSel({
+    width: "100%",
     items: {visible: 3,
       start: 0
     },
-    auto: {
-      items: 3,
-    duration: 3000,
-    timeoutDuration: 0,
-    pauseOnHover: "immediate",
-    easing: "linear"
+    height: 488,
+    scroll: {
+      items: 1,
+      duration: 8000,
+      timeoutDuration: 0,
+      pauseOnHover: "immediate",
+      easing: "linear"
     },
-    prev: '#prev',
-    next: '#next'
+    prev: "#prev",
+    next: "#next"
   });
   // hovering over the big thumbnails on works pages
   $('a.thumbnail').on('mouseenter', function() {
