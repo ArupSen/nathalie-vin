@@ -25,8 +25,8 @@ img_tag('5a.jpg');
 ?>
 
 </div> <!-- end of #carousel -->
-  <a href="#" id="prev" title="Show previous"> </a>
-    <a href="#" id="next" title="Show next"> </a>
+  <a href="#" id="prev" title="Show previous"><span>&lt;</span></a>
+    <a href="#" id="next" title="Show next"><span>&gt;</span></a>
 
       <div class="social-icons">
       <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
