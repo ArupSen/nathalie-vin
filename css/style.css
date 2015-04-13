@@ -78,7 +78,7 @@ h1 {
   height: 47px;
   width: 341px;
   font-size: 0;
-  margin: 73px auto 7px;
+  margin: 37px auto 7px;
 }
 
 
@@ -86,15 +86,6 @@ h1 {
 div#contents{
   margin-top:1em;
 }
-#contents p{}
-
-#contents ul, #contents h2{}
-
-#contents h2{}
-#contents li{}
-#contents a{}
-#contents a:hover{}
-
 
 /*main navbar*/
 ul#navbar{
@@ -109,20 +100,34 @@ ul#navbar li a{
   color:#d9b613;
   text-transform: capitalize;
 }
+ul#navbar li a:hover {
+  color: #F2D758;
+}
+.nav>li>a:hover, .nav>li>a:focus {
+  background-color: transparent;
+}
 .caret {
   color: inherit;
   left: initial;
+  visibility: hidden;
 }
-
+#nav-works .dropdown-menu li a {
+  background: none;
+}
+#nav-home a, #nav-about a, #nav-shop a {
+  background: url('../images/up_arrow.png') no-repeat 75% 50%;
+}
+#nav-works a, #nav-exhibitions a, #nav-contact a {
+  background: url('../images/down_arrow.png') no-repeat 80% 50%;
+}
 /* home page */
 #wrapper {
   background-color: #fff;
   width: 102%;
   height: 488px;
-  margin-top: -40px;
   overflow: hidden;
   position: absolute;
-  top: 150px;
+  top: 110px;
   left: 0;
 
 }
@@ -174,6 +179,7 @@ a.thumbnail {
 div#carousel-nathalie {
   margin: 0 auto;
   width: 820px;
+  min-height: 510px;
 }
 .description h2, .description h3, .description p {
   text-align: center;
@@ -191,11 +197,16 @@ div#carousel-nathalie {
   width: 40%;
   font-size: 13px;
 }
+a.carousel-control span {
+  top: 50%;
+  position: absolute;
+  text-align: center;
+}
 .carousel-control.left, .carousel-control.right {
   background: none;
 }
 .carousel-control.left {
-  left: -70px;
+  left: -110px;
 }
 .carousel-control.right {
   right: -100px;
@@ -257,9 +268,17 @@ img.banner {
 .contact-info {
   position: relative;
   top: -220px;
+  font-size: 12px;
+  text-align: center;
+  color: #999;
 }
 .contact-info a {
   color: #999;
+  padding-right: 3px;
+}
+.social-icons {
+  margin: 0 auto;
+  width: 20%;
 }
 /*footer image link - arup designs*/
 #footer{}
