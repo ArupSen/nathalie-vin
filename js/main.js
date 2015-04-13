@@ -3,16 +3,12 @@
   'use strict';
 	jQuery("#carousel").carouFredSel({
     width: "100%",
-    items: {visible: 3,
-      start: 0
-    },
+    items: 3,
     height: 488,
+    auto: false,
     scroll: {
       items: 1,
-      duration: 8000,
-      timeoutDuration: 0,
-      pauseOnHover: "immediate",
-      easing: "linear"
+    duration: 600
     },
     prev: "#prev",
     next: "#next"
