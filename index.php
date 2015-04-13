@@ -28,6 +28,12 @@ img_tag('5a.jpg');
   <a href="#" id="prev" title="Show previous"> </a>
     <a href="#" id="next" title="Show next"> </a>
 
+      <div class="social-icons">
+      <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+      <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="#" target="_blank"><i class="fa fa-instagram"></i></a>
+      <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
+      </div>
 </div> <!-- end of #wrapper -->
 
 
