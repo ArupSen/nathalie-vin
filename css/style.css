@@ -138,7 +138,7 @@ ul#navbar li a:hover {
 #prev, #next {
   background-color: rgba(255, 255, 255, 0.7);
   display: block;
-  height: 500px;
+  height: 488px;
   width: 50%;
   top: 0;
   position: absolute;
@@ -148,10 +148,26 @@ ul#navbar li a:hover {
   background-color: rgba(255, 255, 255, 0.8);
 }
 #prev {
-  left: -400px;
+  left: -403px;
 }
 #next {
-  right: -400px;
+  right: -403px;
+}
+#prev span, #next span {
+  background: rgba(0,0,0,.1);
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  height: 60px;
+  width: 42px;
+  font-size: 36px;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  line-height: 60px;
+  margin-top: -30px;
+}
+#prev span {
+  right: 0;
 }
 .index .social-icons a {
   color:#d9b613 ;
