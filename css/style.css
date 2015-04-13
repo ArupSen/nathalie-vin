@@ -125,7 +125,6 @@ ul#navbar li a:hover {
   background-color: #fff;
   width: 102%;
   height: 488px;
-  overflow: hidden;
   position: absolute;
   top: 110px;
   left: 0;
@@ -153,6 +152,9 @@ ul#navbar li a:hover {
 }
 #next {
   right: -400px;
+}
+.index .social-icons a {
+  color:#d9b613 ;
 }
 /* works pages - commissions and fine art */
 a.thumbnail span {
