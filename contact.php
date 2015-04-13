@@ -22,7 +22,6 @@ img_tag('contact-asset.jpg');
       <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
       <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
       <a href="#" target="_blank"><i class="fa fa-instagram"></i></a>
-      <a href="#" target="_blank"><i class="fa fa-wordpress"></i></a>
       <a href="#" target="_blank"><i class="fa fa-pinterest"></i></a>
       </div>
   </div>
