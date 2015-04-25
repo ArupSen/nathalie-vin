@@ -51,6 +51,20 @@ img_tag('White-garden-6---2013.jpg');
 <div class="container description">
   <h2>WHITE GARDEN</h2>
   <h3>2013</h3>
+<p>White garden is made of white acrylic beads on canvas.
+<br><br>
+2013
+<br><br>
+White Garden was selected for the notorious "Works from the world" in Ravenna in Italy - 2013
+
+<br><br>
+White garden is the fruit of years of contemplation of light and its dominance over matter. With this piece I wanted to create a mosaic which, once exhibited would present an infinite and variable dance of light and shadows .
+
+<br><br>
+With this piece the lighting can be set up at different angles of the space and the work acquires its dynamism from a critical interaction with the viewer; the coloured shadows change depending upon the position of the viewer.
+
+<br><br>
+White garden is made of multi faceted acrylic objects pinned on a white canvas, reflected light and shadows.</p>
 </div>
 
 <?php footer(); ?>
