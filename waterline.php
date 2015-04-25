@@ -46,11 +46,10 @@ img_tag('Waterline-4---2010.jpg');
 <div class="container description">
   <h2>WATERLINE</h2>
   <h3>2010</h3>
-
-<p>A sculptural form depicting the dramatic lines of the element of water. 
-Private commission - Cannes - France - 2010
-</p>
-
+<p></p>
+Privately owned - Cannes, France- 2010
+<br><br>
+1.90 m x 55 cm x 2 cm
 </div>
 
 <?php footer(); ?>
