@@ -10,7 +10,7 @@ $thumbs = array(
   // page to link to, image thumbnail, hover text
   array('billowing_clouds.php','billowing_clouds.jpg','billowing clouds <br /> 2011'),
   array('free_as_the_air.php','free_as_the_air.jpg','free as the air <br /> 2012'),
-  array('in_between_the_lines.php','in_between_the_lines.jpg','in between the line <br /> 2010'),
+  array('in_between_the_lines.php','in_between_the_lines.jpg','in between the lines <br /> 2010'),
   array('littil_heimar.php','littil_heimar.jpg','littil heimar <br /> 2014'),
   array('multiverse.php','multiverse.jpg','multiverse <br /> 2014'),
   array('space_odyssey.php','space_odyssey.jpg','space odyssey <br /> 2012'),
