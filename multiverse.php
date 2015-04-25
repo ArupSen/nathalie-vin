@@ -57,14 +57,12 @@ img_tag('Multiverse-6---2014.jpg');
   <h2>MULTIVERSE</h2>
   <h3>2014</h3>
 
-<p>What was there when there was nothing?</p>
-
-<p>What triggered this burst of Cosmic egg, rippling and expanding wave after waves to create our Universe... our Multiverse?</p>
-
-<p>To illustrate this concept of " other dimensions" or "Multiverse theory", I chose to superimpose two distinct ideas; The origin of the 'Concept of Time' - starting with the central Point Zero, and 'the Now' - symbolised by our 'Computer Era' in the foreground. </p>
-
-<p>Although inspired by scientific theories, Multiverse is an imaginative realm representing the fusion of two separate dimensions in which the 3rd dimension - evolution - has been erased.</p>
-
+<p>Multiverse is made of smaltis, Glow-in-the-dark and gold tiles, clockwork parts, lego's, polymer clay moulding and computer parts.
+<br><br>
+2014
+<br><br>
+1.10 m x 90 cm x 3 cm
+<br><br>
+Multiverse has been exhibited at the international juried "Picassiette" biennial in France and won a "special distinction" - 2014</p>
 </div>
-
 <?php footer(); ?>
