@@ -27,7 +27,7 @@ img_tag('Bermondsey-Eco-garden-3--2010.jpg');
 </div>
     <div class="item">
 <?php
-img_tag('Bermondsey-Eco-garden-5--2010.jpg');
+img_tag('Bermondsey-Eco-garden-4--2010.jpg');
 ?>
 </div>
     <div class="item">
@@ -57,7 +57,9 @@ img_tag('Bermondsey-Eco-garden-6--2010.jpg');
   <h2>BERMONDSEY ECO GARDEN</h2>
   <h3>2010</h3>
 
-<p>Commissioned by Southwark Council, I created mosaics for four granite columns acting as gateposts on the path through the park.</p>
+<p>Commissioned by Southwark Council. Creation of four granite columns acting as gateposts on the path through the park.
+
+</p>
 </div>
 
 <?php footer(); ?>
