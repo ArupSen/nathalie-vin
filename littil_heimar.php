@@ -62,7 +62,13 @@ img_tag('Littil-Heimar-7--2014.jpg');
   <h2>LITTIL HEIMAR</h2>
   <h3>2014</h3>
 
-<p>A mini trip to a micro world called "Líttil Heimar"</p>
+<p>Littil Heimar is made with Ceramic and glass tiles, coloured mirrors, stained glass, crystals, kyanite stones, pyrite stones, lead bullets, wood, beads, Mexican tiles, peebles.
+<br><br>
+2014
+<br><br>
+40 cm x 17 cm x 4 cm.
+<br><br>
+Has been exhibited at "The City" exhibition in London" as part of an international juried exhibition in the UK – 2014</p>
 </div>
 
 <?php footer(); ?>
