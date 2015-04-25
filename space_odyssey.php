@@ -41,7 +41,11 @@ img_tag('Space-Odyssey-4--2012.jpg');
 <div class="container description">
   <h2>SPACE ODYSSEY</h2>
   <h3>2012</h3>
-<p>Is there life out there?</p>
+<p>Space Odyssey is made of coloured mirror, Glow-in-the-dark tiles, dichroic fused glass and a hologramme.
+<br><br>
+2012
+<br><br>
+20 cm x 20 cm x 4 cm</p>
 </div>
 
 <?php footer(); ?>
