@@ -41,6 +41,13 @@ img_tag('Upsurge-3---2011.jpg');
 <div class="container description">
   <h2>UPSURGE</h2>
   <h3>2011</h3>
+<p>Upsurge is made coloured mirror, ceramic tiles, metal washers and dichroic fused glass.
+<br><br>
+2011
+<br><br>
+40 cm x 40 cm x 2 cm
+<br><br>
+Has been exhibited at the Glass Museum in Tacoma as part of an international juried exhibition in the US - 2013</p>
 </div>
 
 <?php footer(); ?>
