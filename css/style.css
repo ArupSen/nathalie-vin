@@ -28,15 +28,15 @@ small, strike, strong, sub, sup, tt, var,
 dd, dl, dt, li, ol, ul,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-weight: inherit;
-	font-style: inherit;
-	font-size: 100%;
-	font-family: inherit;
-	text-align: left;
-	vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  text-align: left;
+  vertical-align: baseline;
 }
 a img, :link img, :visited img {border: 0;}
 table {
@@ -49,7 +49,7 @@ content: "";}
 
 /* COLOUR PALETTE
 
-#e8e0dd - main background colour
+#F0EFEF - main background colour
 #B0B0B0 - medium grey
 #666666 - darker grey
 #B31E00 - red
@@ -64,7 +64,7 @@ body{
   font-size:100.01%;
   position:relative;
   margin:0 auto;
-  background: /*url('../images/nathalie_grid.png') no-repeat 50% 0*/ #ede5e3;
+  background: /*url('../images/nathalie_grid.png') no-repeat 50% 0*/ #F0EFEF;
 }
 div#wrap{}
 
@@ -80,7 +80,6 @@ h1 {
   font-size: 0;
   margin: 37px auto 7px;
 }
-
 
 /*content area*/
 div#contents{
@@ -101,9 +100,39 @@ ul#navbar li a{
   text-transform: capitalize;
   padding-bottom: 7px;
 }
+/*
 ul#navbar li a:hover {
   border-bottom: 1px solid #d9b613;
   margin-bottom: -1px;
+}
+*/
+#navbar hr {
+  width: auto;
+  margin: 0;
+  border-top: 1px solid transparent;
+  position: relative;
+  left: 44px;
+}
+#nav-home hr {
+  width: 53px;
+}
+#nav-works hr {
+  width: 60px;
+}
+#nav-about hr {
+  width: 56px;
+}
+#nav-shop hr {
+  width: 42px;
+}
+#nav-contact hr {
+  width: 80px;
+}
+#nav-exhibitions hr {
+  width: 103px;
+}
+#navbar li:hover hr {
+  border-top:1px solid #d9b613;
 }
 .nav>li>a:hover, .nav>li>a:focus {
   background-color: transparent;
@@ -119,12 +148,22 @@ ul#navbar li a:hover {
 }
 .dropdown-menu {
   border-radius: 0;
+  margin-top: -2px;
+}
+#nav-works .dropdown-menu li hr {
+  left: 20px;
 }
 #nav-home a, #nav-about a, #nav-shop a {
   background: url('../images/up_arrow.png') no-repeat 75% 40%;
 }
-#nav-works a, #nav-exhibitions a, #nav-contact a {
+#nav-contact a {
   background: url('../images/down_arrow.png') no-repeat 80% 40%;
+}
+#nav-exhibitions a {
+  background: url('../images/down_arrow.png') no-repeat 83% 40%;
+}
+#nav-works a {
+  background: url('../images/down_arrow.png') no-repeat 73% 40%;
 }
 /* home page */
 #wrapper {
@@ -260,7 +299,7 @@ img.banner {
   color: #999;
   letter-spacing: 1px;
 }
-.dates h3 {
+.dates h3, .contact-info h3 {
   font-size: 12px;
   margin-bottom: 0.5em;
   color: #666;
@@ -286,7 +325,7 @@ img.banner {
 }
 .contact hr {
   border-top: 1px solid #999;
-  width: 90px;
+  width: 96px;
   margin-top: 10px;
 }
 .contact-info {
@@ -300,6 +339,18 @@ img.banner {
 }
 .contact-info h2 {
   font-size: 16px;
+}
+.contact-info h3 {
+  text-align: center;
+}
+span.mobile {
+  margin-left: 21px;
+}
+span.work {
+  margin-left: 29px;
+}
+span.email {
+  margin-left: 96px;
 }
 .contact-info a {
   color: #999;
