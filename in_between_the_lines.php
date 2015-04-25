@@ -62,7 +62,13 @@ img_tag('In-between-the-lines-7---2010.jpg');
   <h2>IN BETWEEN THE LINES</h2>
   <h3>2010</h3>
 
-<p>What happens after we die? No-one knows of course, but with “In Between the Lines” I am revealing what the last images might be before we leave this hectic world behind – or the whole of your life flashes before your eyes. A kaleidoscope of life’s precious aspects are represented here: children, friends, love, belief, art, memory, and like a film we zoom out from the chaos of all this, catapulted by the celestial spiral into the unknown, the hypnotic and the unearthly.</p>
+<p>In between the lines is made with Smalti, unglazed ceramic, stained glass, mirrors, turquoise, 3D objects, holograms, lenticular objects, broken china.
+<br><br>
+80 cm diameter.
+<br><br>
+Has been exhibited at the Southfield Art gallery in Richmond, London - 2012
+
+</p>
 </div>
 
 <?php footer(); ?>
