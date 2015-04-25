@@ -244,6 +244,10 @@ div#carousel-nathalie {
   width: 820px;
   min-height: 510px;
 }
+.the_limehouse_fountain_project div#carousel-nathalie {
+  width: auto;
+  max-width: 1100px;
+}
 .description h2, .description h3, .description p {
   text-align: center;
 }
