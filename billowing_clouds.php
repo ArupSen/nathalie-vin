@@ -62,7 +62,10 @@ img_tag('Billowing-cloud-7---2011.jpg');
   <h2>BILLOWING CLOUDS</h2>
   <h3>2011</h3>
 
-<p>Billowing clouds is a series of five clouds made of hand cut ceramic, iridescent and silver tiles. Selected at Mosaic Art International and exhibited at the Lexington gallery and museum - 2011
+<p>"Billowing clouds is a series of five clouds made of hand cut ceramic, glass and silver tiles".
+There are 4 different sizes which varies from 40cm x 17cm for the smallest to 79cm x 33cm for the largest.
+<br>
+Billowing clouds have been exhibited at the Lexington Gallery and Museum" as part of an international juried exhibition in the US - 2011
 </p>
 
 </div>
