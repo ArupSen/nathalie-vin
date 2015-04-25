@@ -52,8 +52,9 @@ img_tag('The-Earth-is-scratching-Herself-4--2010-.jpg');
   <h2>THE EARTH IS SCRATCHING HERSELF</h2>
   <h3>2010</h3>
 
-<p>The Earth is waking up, scratching herself and wondering what is going on. She is erupting in our faces. Talking back to us. Contorting and rebelling against our mistreatments and bellowing out floods, flames, eruptions of every kind. 
-Beware now the Earth has a will of its own.
+<p>Privately owned - Cannes, France- 2010
+<br><br>
+Dyptich: 1 m diameter each
 </p>
 </div>
 
