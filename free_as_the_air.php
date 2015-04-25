@@ -17,11 +17,6 @@ img_tag('Free-as-the-air-1---2012.jpg');
 </div>
     <div class="item">
 <?php
-img_tag('Free-as-the-air-1---2012.jpg');
-?>
-</div>
-    <div class="item">
-<?php
 img_tag('Free-as-the-air-2---2012.jpg');
 ?>
 </div>
@@ -57,7 +52,10 @@ img_tag('Free-as-the-air-5---2012.jpg');
   <h2>free as the air</h2>
   <h3>2012</h3>
 
-<p>“While making the Koi mosaic, strangely I began to see it as much more a creature of the air than of water and ‘FREE AS THE AIR’ kept coming into my head as the title for it. When I researched the mythology of the Koi, so strongly embedded in Japanese culture, it said that according to legend, if a koi succeeds in swimming upstream and climbing the waterfalls at a point on the Yellow River called Dragon Gate, it will be transformed from a fish into a dragon – a creature of the air! I love this serendipity!</p>
+<p>“Free as the air” is made of 60,000 hand cut circles made of glass and silver tiles and dichroic fused glass.
+1m x 52.5cm
+<br><br>
+Has been exhibited at the International Encounters of Mosaic" as part of an international juried exhibition in France - 2012</p>
 
 </div>
 
