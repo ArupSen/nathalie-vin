@@ -52,9 +52,13 @@ img_tag('Terra-Incognita-5---2014.jpg');
   <h2>TERRA INCOGNITA</h2>
   <h3>2014</h3>
 
-<p>Life is 'terra incognita' and so is art - an ever-changing event emerging from endless possibilities.</p>
-
-<p>With this piece I created an imaginary world where the laws of nature were different from those from Earth but somehow similar in evolution. 'Terra Incognita' is an attempt to symbolise the origin of an early writing by creating a fragment suggesting both contemporary and ancient representations. Hopefully viewers find themselves in familiar and fantasy dimensions simultaneously.</p>
+<p>Terra Incognita is made of ceramic glazed tiles, stained glass, lego's, computer parts, clockwork parts and gold tiles .
+<br><br>
+2014
+<br><br>
+48 cm x 47 cm x 12 mm
+<br><br>
+Terra Incognita has been exhibited at the British exhibition “BrittaMosaica” to represent the essence of Contemporain British mosaic at the Museum des Beaux-Arts in Chartres in France - 2014 -</p>
 </div>
 
 <?php footer(); ?>

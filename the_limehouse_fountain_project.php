@@ -51,6 +51,9 @@ img_tag('The-Limehouse-Fountain-project-6---2013.jpg');
 <div class="container description">
   <h2>THE LIMEHOUSE FOUNTAIN PROJECT</h2>
   <h3>2013</h3>
+<p>Located in the heart of the London Borough of Tower Hamlets, on the northern bank of the River Thames. 48 sqm mosaic project for a residential plaza
+<br><br>
+Privately owned – London - 2014</p>
 </div>
 
 <?php footer(); ?>
