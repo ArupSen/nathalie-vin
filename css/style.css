@@ -111,19 +111,19 @@ ul#navbar li a:hover {
   margin: 0;
   border-top: 1px solid transparent;
   position: relative;
-  left: 44px;
+  left: 36px;
 }
 #nav-home hr {
-  width: 53px;
+  width: 51px;
 }
 #nav-works hr {
   width: 60px;
 }
 #nav-about hr {
-  width: 56px;
+  width: 54px;
 }
 #nav-shop hr {
-  width: 42px;
+  width: 44px;
 }
 #nav-contact hr {
   width: 80px;
@@ -154,16 +154,16 @@ ul#navbar li a:hover {
   left: 20px;
 }
 #nav-home a, #nav-about a, #nav-shop a {
-  background: url('../images/up_arrow.png') no-repeat 75% 40%;
+  background: url('../images/up_arrow.png') no-repeat 81% 40%;
 }
 #nav-contact a {
-  background: url('../images/down_arrow.png') no-repeat 80% 40%;
+  background: url('../images/down_arrow.png') no-repeat 84% 40%;
 }
 #nav-exhibitions a {
-  background: url('../images/down_arrow.png') no-repeat 83% 40%;
+  background: url('../images/down_arrow.png') no-repeat 88% 40%;
 }
 #nav-works a {
-  background: url('../images/down_arrow.png') no-repeat 73% 40%;
+  background: url('../images/down_arrow.png') no-repeat 77% 40%;
 }
 /* home page */
 #wrapper {
@@ -198,7 +198,7 @@ ul#navbar li a:hover {
 #next {
   right: -403px;
 }
-#prev span, #next span {
+#prev span, #next span, .left span, .right span {
   background: rgba(0,0,0,.1);
   color: #fff;
   position: absolute;
@@ -244,12 +244,13 @@ div#carousel-nathalie {
   width: 820px;
   min-height: 510px;
 }
-.the_limehouse_fountain_project div#carousel-nathalie {
+div#carousel-nathalie {
   width: auto;
   max-width: 1100px;
 }
 .description h2, .description h3, .description p {
   text-align: center;
+  color: #999;
 }
 .description h2 {
   font-size: 1.8em;
@@ -263,9 +264,11 @@ div#carousel-nathalie {
   margin: 10px auto;
   width: 40%;
   font-size: 13px;
+  text-align: justify;
+  font-family: "Times New Roman";
 }
 a.carousel-control span {
-  top: 50%;
+  top: 45%;
   position: absolute;
   text-align: center;
 }

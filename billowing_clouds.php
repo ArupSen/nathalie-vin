@@ -64,7 +64,7 @@ img_tag('Billowing-cloud-7---2011.jpg');
 
 <p>"Billowing clouds is a series of five clouds made of hand cut ceramic, glass and silver tiles".
 There are 4 different sizes which varies from 40cm x 17cm for the smallest to 79cm x 33cm for the largest.
-<br>
+<br><br>
 Billowing clouds have been exhibited at the Lexington Gallery and Museum" as part of an international juried exhibition in the US - 2011
 </p>
 

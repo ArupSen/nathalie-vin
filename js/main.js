@@ -29,6 +29,17 @@
     //prev: "#prev",
     //next: "#next"
   //});
+  // carousel on the details pages is bootstrap
+  $('.carousel').carousel({
+    pause: "false",
+    interval: 3000
+  });
+  var $left = $('.left').find('span').first();
+  var $right = $('.right').find('span').first();
+  $left.removeClass();
+  $right.removeClass();
+  $left.text("<");
+  $right.text(">");
   // hovering over the big thumbnails on works pages
   $('a.thumbnail').on('mouseenter', function() {
     $(this).find('span').show();
@@ -40,4 +51,7 @@
   });
   // add horizontal rules under nav elements
   $('ul#navbar li').append('<hr>');
+  $('.dropdown-menu').addClass('works-menu');
+  $('.works-menu').find('li').first().addClass('fine-art');
+  $('.works-menu').find('li').eq(1).addClass('commissions');
 }());
