@@ -68,7 +68,10 @@ img_tag('Littil-Heimar-7--2014.jpg');
 <br><br>
 40 cm x 17 cm x 4 cm.
 <br><br>
-Has been exhibited at "The City" exhibition in London" as part of an international juried exhibition in the UK – 2014</p>
+Has been exhibited at "The City" exhibition in London" as part of an international juried exhibition in the UK – 2014
+<br><br>
+photo credit: Lou Smith
+<p>
 </div>
 
 <?php footer(); ?>

@@ -48,6 +48,8 @@ img_tag('Upsurge-3---2011.jpg');
 40 cm x 40 cm x 2 cm
 <br><br>
 Has been exhibited at the Glass Museum in Tacoma as part of an international juried exhibition in the US - 2013</p>
+<br><br>
+photo credit: Simon Martner
 </div>
 
 <?php footer(); ?>

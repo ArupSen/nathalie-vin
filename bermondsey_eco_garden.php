@@ -58,7 +58,8 @@ img_tag('Bermondsey-Eco-garden-6--2010.jpg');
   <h3>2010</h3>
 
 <p>Commissioned by Southwark Council. Creation of four granite columns acting as gateposts on the path through the park.
-
+<br><br>
+photo credit: Nathalie Vin
 </p>
 </div>
 

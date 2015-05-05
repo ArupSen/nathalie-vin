@@ -49,6 +49,8 @@ img_tag('Waterline-4---2010.jpg');
 <p>Privately owned - Cannes, France- 2010
 <br><br>
 1.90 m x 55 cm x 2 cm
+<br><br>
+photo credit: Eric Zaragoza (first one) and the others: Nathalie Vin
 </p>
 </div>
 

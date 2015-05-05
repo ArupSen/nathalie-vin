@@ -63,6 +63,9 @@ img_tag('Multiverse-6---2014.jpg');
 <br><br>
 1.10 m x 90 cm x 3 cm
 <br><br>
-Multiverse has been exhibited at the international juried "Picassiette" biennial in France and won a "special distinction" - 2014</p>
+Multiverse has been exhibited at the international juried "Picassiette" biennial in France and won a "special distinction" - 2014
+<br><br>
+photo credit: Simon Martner (first 3) and Lou Smith (last 3)
+</p>
 </div>
 <?php footer(); ?>

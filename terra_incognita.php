@@ -58,7 +58,10 @@ img_tag('Terra-Incognita-5---2014.jpg');
 <br><br>
 48 cm x 47 cm x 12 mm
 <br><br>
-Terra Incognita has been exhibited at the British exhibition “BrittaMosaica” to represent the essence of Contemporain British mosaic at the Museum des Beaux-Arts in Chartres in France - 2014 -</p>
+Terra Incognita has been exhibited at the British exhibition “BrittaMosaica” to represent the essence of Contemporain British mosaic at the Museum des Beaux-Arts in Chartres in France - 2014
+<br><br>
+photo credit: Simon Martner
+</p>
 </div>
 
 <?php footer(); ?>

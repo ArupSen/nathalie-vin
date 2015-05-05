@@ -74,6 +74,8 @@ Michael-Northcroft---Close-up-of-the-floor1.jpg
 4 sqm
 <br><br>
 <a href="http://www.michaelnorthcroft.com" target="_blank">www.michaelnorthcroft.com</a>
+<br><br>
+photo credit: Lou Smith
 </p>
 </div>
 

@@ -67,6 +67,8 @@ img_tag('In-between-the-lines-7---2010.jpg');
 80 cm diameter.
 <br><br>
 Has been exhibited at the Southfield Art gallery in Richmond, London - 2012
+<br><br>
+photo credit: Simon Martner
 
 </p>
 </div>

@@ -55,6 +55,8 @@ img_tag('The-Earth-is-scratching-Herself-4--2010-.jpg');
 <p>Privately owned - Cannes, France- 2010
 <br><br>
 Dyptich: 1 m diameter each
+<br><br>
+photo credit: Eric Zaragoza
 </p>
 </div>
 

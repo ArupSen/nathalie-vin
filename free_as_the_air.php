@@ -55,7 +55,10 @@ img_tag('Free-as-the-air-5---2012.jpg');
 <p>“Free as the air” is made of 60,000 hand cut circles made of glass and silver tiles and dichroic fused glass.
 1m x 52.5cm
 <br><br>
-Has been exhibited at the International Encounters of Mosaic" as part of an international juried exhibition in France - 2012</p>
+Has been exhibited at the International Encounters of Mosaic" as part of an international juried exhibition in France - 2012
+<br><br>
+photo credit: Simon Martner
+</p>
 
 </div>
 

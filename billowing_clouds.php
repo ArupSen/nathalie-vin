@@ -66,6 +66,8 @@ img_tag('Billowing-cloud-7---2011.jpg');
 There are 4 different sizes which varies from 40cm x 17cm for the smallest to 79cm x 33cm for the largest.
 <br><br>
 Billowing clouds have been exhibited at the Lexington Gallery and Museum" as part of an international juried exhibition in the US - 2011
+<br><br>
+photo credit: Simon Martner
 </p>
 
 </div>

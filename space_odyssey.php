@@ -45,7 +45,10 @@ img_tag('Space-Odyssey-4--2012.jpg');
 <br><br>
 2012
 <br><br>
-20 cm x 20 cm x 4 cm</p>
+20 cm x 20 cm x 4 cm
+<br><br>
+photo credit: Lou Smith (framed images) and Gillian Cargyll (last one, glow in the dark)
+</p>
 </div>
 
 <?php footer(); ?>

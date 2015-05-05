@@ -65,6 +65,8 @@ With this piece the lighting can be set up at different angles of the space and 
 
 <br><br>
 White garden is made of multi faceted acrylic objects pinned on a white canvas, reflected light and shadows.</p>
+<br><br>
+photo credit: Simon Martner
 </div>
 
 <?php footer(); ?>
