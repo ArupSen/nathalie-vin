@@ -17,18 +17,8 @@
       height: 488,
       auto: false
   });
-	//jQuery("#carousel").carouFredSel({
-    //width: "100%",
-    //items: 3,
-    //height: 488,
-    //auto: false,
-    //scroll: {
-      //items: 1,
-    //duration: 600
-    //},
-    //prev: "#prev",
-    //next: "#next"
-  //});
+  $('#carousel').find('img').removeClass('img-responsive');
+
   // carousel on the details pages is bootstrap
   $('.carousel').carousel({
     pause: "false",

@@ -15,6 +15,7 @@ $thumbs = array(
   array('multiverse.php','multiverse.jpg','multiverse <br /> 2014'),
   array('space_odyssey.php','space_odyssey.jpg','space odyssey <br /> 2012'),
   array('terra_incognita.php','terra_incognita.jpg','terra incognita <br /> 2014'),
+  array('the_lost_cosmos.php','the_lost_cosmos.jpg','the lost cosmos<br /> 2015'),
   array('upsurge.php','upsurge.jpg','upsurge <br /> 2011'),
   array('white_garden.php','white_garden.jpg','white garden <br /> 2013')
 );

@@ -84,6 +84,7 @@ h1 {
 /*content area*/
 div#contents{
   margin-top:1em;
+  height: 1%;
 }
 
 /*main navbar*/
@@ -111,7 +112,10 @@ ul#navbar li a:hover {
   margin: 0;
   border-top: 1px solid transparent;
   position: relative;
-  left: 36px;
+}
+.nav>li>a {
+  display: inline-block;
+  padding: 0 15px 0 0;
 }
 #nav-home hr {
   width: 51px;
@@ -154,13 +158,13 @@ ul#navbar li a:hover {
   left: 20px;
 }
 #nav-home a, #nav-about a, #nav-shop a {
-  background: url('../images/up_arrow.png') no-repeat 81% 40%;
+  background: url('../images/up_arrow.png') no-repeat 100% 40%;
 }
 #nav-contact a {
-  background: url('../images/down_arrow.png') no-repeat 84% 40%;
+  background: url('../images/down_arrow.png') no-repeat 100% 40%;
 }
 #nav-exhibitions a {
-  background: url('../images/down_arrow.png') no-repeat 88% 40%;
+  background: url('../images/down_arrow.png') no-repeat 100% 40%;
 }
 #nav-works a {
   background: url('../images/down_arrow.png') no-repeat 77% 40%;
@@ -324,6 +328,40 @@ img.banner {
 }
 .exhibitions h2, .exhibitions h3 {
   text-align: center;
+}
+/* about page */
+.about h2 {
+  color: #999;
+  text-align: center;
+  margin-top: 1em;
+}
+.about hr {
+  border-top: 1px solid #999;
+  width: 65px;
+  margin-top: 10px;
+}
+.about .row {
+  margin: 0 auto;
+  width: 940px;
+}
+.about .row .col-md-4 {
+  color: #999;
+  font-family: "Times New Roman";
+}
+.about .row .col-md-4 p {
+  text-align: justify;
+  margin-bottom: 1em;
+  font-size: 13px;
+}
+.col-1 {
+  padding-left: 0;
+}
+.col-2 {
+  padding-left:10px;
+  padding-right:10px;
+}
+.col-3 {
+  padding-right: 0;
 }
 /* contact page */
 
