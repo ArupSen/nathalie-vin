@@ -12,7 +12,7 @@ $thumbs = array(
   array('the_earth_is_scratching_herself.php','the_earth_is_scratching_herself.jpg','the earth is scratching herself <br> 2010'),
   array('the_limehouse_fountain_project.php','the_limehouse_fountain_project.jpg','the limehouse fountain project <br> 2013'),
   array('waterline.php','waterline.jpg','waterline <br> 2010'),
-  array('michael_northcroft.php','works_MN.jpg','michael northcroft <br> 2014'),
+  array('michael_northcroft.php','Michael-Northcroft-thumbnail.jpg','michael northcroft <br> 2014'),
 );
 echo '<div class="row">';
 echo '<div class="container">';
