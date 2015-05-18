@@ -1,26 +1,17 @@
 // Site specific js code
 (function(){
   'use strict';
-  jQuery('#carousel').carouFredSel({
-    width: '100%',
-      items: {
-        visible: 3,
-          start: 0
-      },
-      scroll: {
-        items: 1,
-          duration: 600,
-          timeoutDuration: 3000
-      },
-      prev: '#prev',
-      next: '#next',
-      height: 488,
-      auto: false
+  // carousel on the home page uses slick
+  $('#home-carousel').slick({
+    centerMode: true,
+    slidesToShow: 1,
+    variableWidth: true,
+    centerPadding: '4px',
+    prevArrow: '<div class="slick-prev"><span>&lt;</span></div>',
+    nextArrow: '<div class="slick-next"><span>&gt;</span></div>'
   });
-  $('#carousel').find('img').removeClass('img-responsive');
-
   // carousel on the details pages is bootstrap
-  $('.carousel').carousel({
+  $('#carousel-nathalie').carousel({
     pause: "false",
     interval: 3000
   });
@@ -30,7 +21,7 @@
   $right.removeClass();
   $left.text("<");
   $right.text(">");
-  // hovering over the big thumbnails on works pages
+  // hovering over the big thumbnails on works pages toggles text
   $('a.thumbnail').on('mouseenter', function() {
     $(this).find('span').show();
     $(this).find('img').css({"opacity":0.5, "border": "4px solid #fff"});
@@ -41,7 +32,7 @@
   });
   // add horizontal rules under nav elements
   $('ul#navbar li').append('<hr>');
-  $('.dropdown-menu').addClass('works-menu');
-  $('.works-menu').find('li').first().addClass('fine-art');
-  $('.works-menu').find('li').eq(1).addClass('commissions');
+//  $('.dropdown-menu').addClass('works-menu');
+//  $('.works-menu').find('li').first().addClass('fine-art');
+//  $('.works-menu').find('li').eq(1).addClass('commissions');
 }());

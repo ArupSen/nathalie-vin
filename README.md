@@ -1,2 +1,2 @@
 # nathalie-vin
-Website for artist Nathalie Vin
+This is the soft launch branch which is the non-shop part of the website. The drop-down menu from the shop has been removed. The main issue has been that the carousel on the homepage has been loading in an unpredictable way and has also been jerky in Firefox. So far I have been using the CarouFredSel one but in this branch I have also tried using the TWBS one which does work on the details pages for both the Fine art and the Commissions sections. I am now trying out the "Last carousel you'll ever need" by Ken Wheeler.

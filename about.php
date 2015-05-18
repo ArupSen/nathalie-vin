@@ -22,7 +22,7 @@ img_tag('about-page.jpg','','banner');
   <div class="col-md-4 col-3">
     <p>Nathalie Vin's practice has spanned the past 14 years, working now from her London based studio. She has been selected to exhibit in the most prestigious mosaic art exhibitions in the world and her work has been exhibited in musuems in France and the US. She was recently awarded with a 'special distinction' for the notorious Picasiette Prize in France.</p>
     <p>Nathalie is best known for her highly intricate work, intriguing and elegant designs and unusual techniques.</p>
-<p><a href="">READ Q&A WITH NATHALIE</a></p>
+<p><a href="Q&A.docx.pdf" target="_blank">READ Q&A WITH NATHALIE</a></p>
   </div>
 </div>
 

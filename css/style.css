@@ -123,8 +123,20 @@ ul#navbar li a:hover {
 #nav-works hr {
   width: 60px;
 }
+#nav-works li.fine-art hr {
+  width: 65px;
+}
+#nav-works li.commissions hr {
+  width: 103px;
+}
 #nav-about hr {
   width: 54px;
+}
+#nav-about li.about-nathalie hr {
+  width: 124px;
+}
+#nav-about li.qanda hr {
+  width: 42px;
 }
 #nav-shop hr {
   width: 44px;
@@ -146,15 +158,22 @@ ul#navbar li a:hover {
   left: initial;
   visibility: hidden;
 }
-#nav-works .dropdown-menu li a {
+#nav-works .dropdown-menu li a, #nav-about .dropdown-menu li a {
   background: none;
   padding: 9px 0 0px 20px;
 }
 .dropdown-menu {
   border-radius: 0;
   margin-top: -2px;
+  padding-bottom: 10px;
 }
-#nav-works .dropdown-menu li hr {
+.dropdown-menu li hr {
+  visibility: hidden;
+}
+.dropdown-menu li:hover hr {
+  visibility: visible;
+}
+#nav-works .dropdown-menu li hr, #nav-about .dropdown-menu li hr {
   left: 20px;
 }
 #nav-home a, #nav-about a, #nav-shop a {
@@ -170,39 +189,31 @@ ul#navbar li a:hover {
   background: url('../images/down_arrow.png') no-repeat 77% 40%;
 }
 /* home page */
-#wrapper {
-  background-color: #fff;
-  width: 100%;
-  height: 488px;
-  position: absolute;
-  top: 110px;
-  left: 0;
-  overflow: hidden;
-}
-#carousel img {
-  display: block;
-  float: left;
+#home-carousel img {
   border: 4px solid #fff;
 }
-#prev, #next {
+.slick-prev, .slick-next {
   background-color: rgba(255, 255, 255, 0.7);
   display: block;
   height: 488px;
   width: 50%;
   top: 0;
   position: absolute;
+  border: none;
+  outline: none;
 }
-#prev:hover, #next:hover {
+.slick-prev:hover, .slick-next:hover {
   background-color: #fff;
   background-color: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
 }
-#prev {
+.slick-prev {
   left: -402px;
 }
-#next {
+.slick-next {
   right: -403px;
 }
-#prev span, #next span, .left span, .right span {
+.slick-prev span, .slick-next span, .left span, .right span {
  /* background: rgba(0,0,0,.1);*/
   color: #fff;
   position: absolute;
@@ -215,7 +226,7 @@ ul#navbar li a:hover {
   line-height: 60px;
   margin-top: -30px;
 }
-#prev span {
+.slick-prev span {
   right: 0;
 }
 .index .social-icons a {
