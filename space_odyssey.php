@@ -22,6 +22,11 @@ img_tag('Space-Odyssey-3--2012.jpg');
 </div>
     <div class="item">
 <?php
+img_tag('Space-Odyssey-5--2012.jpg');
+?>
+</div>
+    <div class="item">
+<?php
 img_tag('Space-Odyssey-4--2012.jpg');
 ?>
 </div>

@@ -1,5 +1,5 @@
 <?php
-// upsurge.php
+// set_in_flames.php
 
 require_once 'inc_path.php';
 require_once INCPATH.'header.php';
@@ -12,17 +12,12 @@ navbar();
   <div class="carousel-inner" role="listbox">
     <div class="item active">
 <?php
-img_tag('Upsurge-1---2011.jpg');
+img_tag('Set-in-flames-1.jpg');
 ?>
 </div>
     <div class="item">
 <?php
-img_tag('Upsurge-2---2011.jpg');
-?>
-</div>
-    <div class="item">
-<?php
-img_tag('Upsurge-3---2011.jpg');
+img_tag('Set-in-flames-2.jpg');
 ?>
 </div>
   </div>
@@ -39,15 +34,16 @@ img_tag('Upsurge-3---2011.jpg');
 </div>
 
 <div class="container description">
-  <h2>UPSURGE</h2>
-  <h3>2011</h3>
-<p>Upsurge is made coloured mirror, ceramic tiles, metal washers and dichroic fused glass.
+  <h2>set in flames</h2>
+  <h3>2014</h3>
+<p>
 <br><br>
-2011
+2014
 <br><br>
-40 cm x 40 cm x 2 cm
+Dimensions: 12,5 cm x 12,5 cm x 4 cm
 <br><br>
-Has been exhibited at the Glass Museum in Tacoma as part of an international juried exhibition in the US - 2013
+"Set in Flames" is made with glass and coloured mirror tiles, a ceramic large peeble and a Notre Dame gargoyle model.
+Set in flames is part of a series of micro world exploring the notion of time, the good and the bad, death etc..
 <br><br>
 photo credit: Simon Martner</p>
 </div>

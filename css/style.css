@@ -230,7 +230,7 @@ ul#navbar li a:hover {
   right: 0;
 }
 .index .social-icons a {
-  color:#d9b613 ;
+  color:#dbb74a;
 }
 /* works pages - commissions and fine art */
 a.thumbnail span {
@@ -373,6 +373,9 @@ img.banner {
 }
 .col-3 {
   padding-right: 0;
+}
+.col-3 a {
+  color: #999;
 }
 /* contact page */
 

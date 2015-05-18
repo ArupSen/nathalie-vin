@@ -17,7 +17,9 @@ $thumbs = array(
   array('terra_incognita.php','terra_incognita.jpg','terra incognita <br /> 2014'),
   array('the_lost_cosmos.php','the_lost_cosmos.jpg','the lost cosmos<br /> 2015'),
   array('upsurge.php','upsurge.jpg','upsurge <br /> 2011'),
-  array('white_garden.php','white_garden.jpg','white garden <br /> 2013')
+  array('white_garden.php','white_garden.jpg','white garden <br /> 2013'),
+  array('or_du_temps.php','Or-du-temps-thumbnail.jpg','or du temps <br /> 2015'),
+  array('set_in_flames.php','Set-in-flames-thumbnail.jpg','set in flames <br /> 2014')
 );
 echo '<div class="row">';
 echo '<div class="container">';

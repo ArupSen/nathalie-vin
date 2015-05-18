@@ -53,9 +53,9 @@ img_tag('The-Limehouse-Fountain-project-6---2013.jpg');
   <h3>2013</h3>
 <p>Located in the heart of the London Borough of Tower Hamlets, on the northern bank of the River Thames. 48 sqm mosaic project for a residential plaza
 <br><br>
-Privately owned – London - 2014</p>
+Privately owned – London - 2014
 <br><br>
-photo credit: Lou Smith
+photo credit: Lou Smith</p>
 </div>
 
 <?php footer(); ?>

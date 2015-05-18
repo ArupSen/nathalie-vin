@@ -64,9 +64,9 @@ White garden is the fruit of years of contemplation of light and its dominance o
 With this piece the lighting can be set up at different angles of the space and the work acquires its dynamism from a critical interaction with the viewer; the coloured shadows change depending upon the position of the viewer.
 
 <br><br>
-White garden is made of multi faceted acrylic objects pinned on a white canvas, reflected light and shadows.</p>
+White garden is made of multi faceted acrylic objects pinned on a white canvas, reflected light and shadows.
 <br><br>
-photo credit: Simon Martner
+photo credit: Simon Martner</p>
 </div>
 
 <?php footer(); ?>

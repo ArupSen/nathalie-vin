@@ -5,15 +5,14 @@ require_once INCPATH.'header.php';
 navbar();
 
 // the unique contents will go here up to the footer
-img_tag('about-page.jpg','','banner');
 ?>
 <div class="row">
 <h2>ABOUT</h2>
 <hr>
   <div class="col-md-4 col-1">
-    <p>When not working on fixed commissions or client led designs, Nathalie is drawn to expressing philosophical notions, "permanence and impermanence, life and death, man versus nature, the future and our responses to it."</p>
-    <p>There are undoubtedly recurrent themes in her work, an outcome of her innate instincts and interests. She is fascinated by the notion of the essential 'now', that ever-fleeting moment when entirety is glimpsed but never retained. She is intrigued by nature and how small our human concerns are in comparison to it.</p>
-    <p>The concept of microcosm inside the macrocosm and how fragments are echoed and repeated to form the larger picture, embodies her work.</p>
+<?php
+img_tag('Nathalie_image.jpg');
+?>
   </div>
   <div class="col-md-4 col-2">
     <p>Her fundamental activity is with fine art mosaics but her life and explorative curiousity informs her art, working with installation (perhaps the most monumental example of this is The Glow project), film, commissioned photographic documentaries for Holocaust Memorial day, sculpture and painting.</p>
