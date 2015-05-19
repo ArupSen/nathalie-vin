@@ -15,6 +15,11 @@ navbar();
 img_tag('Or-du-temps-4b.jpg');
 ?>
 </div>
+    <div class="item">
+<?php
+img_tag('Or-du-temps-4c.jpg');
+?>
+</div>
   </div>
 
   <!-- Controls -->
