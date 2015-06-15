@@ -1,0 +1,370 @@
+@import '_header.scss';
+@import '_vars_etc.scss';
+
+/* BG IMAGE PATH url('../images/my_image.gif') */
+/*the main global rules*/
+body{
+  font-family:Arial, sans-serif;
+  font-size:100.01%;
+  @extend %relative_pos;
+  @extend %center;
+  background: /*url('../images/nathalie_grid.png') no-repeat 50% 0*/ #F0EFEF;
+}
+/*main heading and sub heading*/
+h1 {
+  background: url('../images/web-logo.png') no-repeat;
+  height: 47px;
+  width: 341px;
+  font-size: 0;
+  margin: 37px auto 7px;
+}
+
+/*content area*/
+div#contents{
+  margin-top:1em;
+  height: 1%;
+}
+
+/*main navbar*/
+ul#navbar{
+  width: 65%;
+  @extend %center;
+  li a{
+    text-decoration:none;
+    color:$nav_color;
+    text-transform: capitalize;
+    padding-bottom: 7px;
+  }
+  hr {
+    margin: 0;
+    border-top: 1px solid transparent;
+    @extend %relative_pos;
+  }
+}
+
+div#clear {clear:left;}
+.nav>li>a {
+  display: inline-block;
+  padding: 0 15px 0 0;
+}
+#nav-home hr {
+  width: 51px;
+}
+#nav-works hr {
+  width: 60px;
+}
+#nav-works li.fine-art hr {
+  width: 65px;
+}
+#nav-works li.commissions hr {
+  width: 103px;
+}
+#nav-about hr {
+  width: 54px;
+}
+#nav-about li.about-nathalie hr {
+  width: 124px;
+}
+#nav-about li.qanda hr {
+  width: 42px;
+}
+#nav-shop hr {
+  width: 44px;
+}
+#nav-contact hr {
+  width: 80px;
+}
+#nav-exhibitions hr {
+  width: 103px;
+}
+#navbar li:hover hr {
+  border-top: 1px solid $nav_color;
+}
+.nav>li>a:hover, .nav>li>a:focus {
+  background-color: transparent;
+}
+.caret {
+  color: inherit;
+  left: initial;
+  visibility: hidden;
+}
+#nav-works .dropdown-menu li a, #nav-about .dropdown-menu li a {
+  background: none;
+  padding: 9px 0 0px 20px;
+}
+.dropdown-menu {
+  border-radius: 0;
+  margin-top: -2px;
+  padding-bottom: 10px;
+
+  li hr {
+    visibility: hidden;
+  }
+
+  li:hover hr {
+    visibility: visible;
+  }
+}
+#nav-works .dropdown-menu li hr, #nav-about .dropdown-menu li hr {
+  left: 20px;
+}
+#nav-home a, #nav-about a, #nav-shop a, #nav-contact a, #nav-exhibitions a {
+  background: url('../images/up_arrow.png') no-repeat 100% 40%;
+}
+#nav-works a {
+  background: url('../images/down_arrow.png') no-repeat 77% 40%;
+}
+/* home page */
+#home-carousel img {
+  border: 4px solid #fff;
+}
+.slick-prev, .slick-next {
+  background-color: rgba(255, 255, 255, 0.7);
+  display: block;
+  height: 488px;
+  width: 50%;
+  top: 0;
+  @extend %absolute_pos;
+  border: none;
+  outline: none;
+}
+.slick-prev:hover, .slick-next:hover {
+  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+}
+.slick-prev {
+  left: -402px;
+}
+.slick-next {
+  right: -403px;
+}
+.slick-prev span, .slick-next span, .left span, .right span {
+ /* background: rgba(0,0,0,.1);*/
+  color: #fff;
+  @extend %absolute_pos;
+  top: 50%;
+  height: 60px;
+  width: 42px;
+  font-size: 36px;
+  -webkit-font-smoothing: antialiased;
+  @extend %center_text;
+  line-height: 60px;
+  margin-top: -30px;
+}
+.slick-prev span {
+  right: 0;
+}
+.index .social-icons a {
+  color:#dbb74a;
+}
+/* works pages - commissions and fine art */
+a.thumbnail {
+  border: none;
+  padding: 15px;
+  margin: 0;
+  background-color: transparent;
+  span {
+    display: none;
+    @extend %absolute_pos;
+    top: 46%;
+    text-transform: uppercase;
+    @extend %center_text;
+    left: 0;
+    right: 0;
+    @extend %center;
+    color: #666;
+  }
+}
+/* description pages with slideshow */
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+  @extend %center;
+}
+div#carousel-nathalie {
+  @extend %center;
+  width: 820px;
+  min-height: 510px;
+}
+div#carousel-nathalie {
+  width: auto;
+  max-width: 1100px;
+}
+.description h2, .description h3, .description p {
+  @extend %center_text;
+  @extend %copy_color;
+}
+.description {
+   h2 {
+    font-size: 1.8em;
+    letter-spacing: 1px;
+    padding:1em;
+  }
+   h3 {
+    margin-bottom: 30px;
+  }
+   p {
+    margin: 10px auto;
+    width: 40%;
+    font-size: 13px;
+    text-align: justify;
+    @extend %times_new;
+  }
+}
+a.carousel-control span {
+  top: 45%;
+  @extend %absolute_pos;
+  @extend %center_text;
+}
+.carousel-control.left, .carousel-control.right {
+  background: none;
+  top: 45px;
+}
+.carousel-control.left {
+  left: -110px;
+}
+.carousel-control.right {
+  right: -100px;
+}
+/* exhibitions page */
+img.banner {
+  @extend %center;
+}
+.dates {
+   ul {
+    @extend %center;
+    max-width: 941px;
+  }
+   li {
+    width: 310px;
+    float: left;
+    @extend %center_text;
+    padding: 30px;
+    height: 140px;
+    font-size: 13px;
+    @extend %times_new;
+    @extend %copy_color;
+    letter-spacing: 1px;
+  }
+}
+.dates h3, .contact-info h3 {
+  font-size: 12px;
+  margin-bottom: 0.5em;
+  color: #666;
+  letter-spacing: 0;
+}
+.exhibitions {
+   hr {
+     @extend %hr_border;
+    width: 120px;
+    margin-top: 10px;
+  }
+   h2 {
+    @extend %copy_color;
+    margin-top: 1em;
+  }
+   h2,  h3 {
+    @extend %center_text;
+  }
+}
+/* about page */
+.about {
+   h2 {
+    @extend %copy_color;
+    @extend %center_text;
+    margin-top: 1em;
+  }
+   hr {
+     @extend %hr_border;
+    width: 65px;
+    margin-top: 10px;
+  }
+   .row {
+    @extend %center;
+    width: 940px;
+  }
+   .row .col-md-4 {
+    @extend %copy_color;
+    @extend %times_new;
+  }
+   .row .col-md-4 p {
+    text-align: justify;
+    margin-bottom: 1em;
+    font-size: 13px;
+  }
+}
+.col-1 {
+  padding-left: 0;
+}
+.col-2 {
+  padding-left:10px;
+  padding-right:10px;
+}
+.col-3 {
+  padding-right: 0;
+}
+.col-3 a {
+  @extend %copy_color;
+}
+/* contact page */
+.contact {
+   h2 {
+    @extend %copy_color;
+    @extend %center_text;
+  }
+   hr {
+     @extend %hr_border;
+    width: 96px;
+    margin-top: 10px;
+  }
+}
+.contact-info {
+  @extend %relative_pos;
+  top: -260px;
+  font-size: 13px;
+  @extend %center_text;
+  @extend %copy_color;
+  @extend %times_new;
+  letter-spacing: 1px;
+   h2 {
+    font-size: 16px;
+  }
+   h3 {
+    @extend %center_text;
+  }
+}
+span {
+  &.mobile {
+    margin-left: 21px;
+  }
+  &.work {
+    margin-left: 29px;
+  }
+  &.email {
+    margin-left: 96px;
+  }
+}
+.contact-info a {
+  @extend %copy_color;
+  padding-right: 3px;
+}
+.social-icons {
+  margin: 10px auto;
+  width: 100px;
+  i {
+    font-size: 20px;
+   }
+}
+
+/* small screens */
+@media (max-width: 767px) {
+  .contact-info {
+    top: -12em;
+    font-size: 12px;
+    width: 70%;
+    opacity: 0.7;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 4px solid #fff;
+    padding-top: 5px;
+  }
+}

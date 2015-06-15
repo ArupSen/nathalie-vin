@@ -1,2 +1,11 @@
 # nathalie-vin
-This is the soft launch branch which is the non-shop part of the website. The drop-down menu from the shop has been removed. The main issue has been that the carousel on the homepage has been loading in an unpredictable way and has also been jerky in Firefox. So far I have been using the CarouFredSel one but in this branch I have also tried using the TWBS one which does work on the details pages for both the Fine art and the Commissions sections. I am now trying out the "Last carousel you'll ever need" by Ken Wheeler.
+This is the dev cleanup branch which is the non-shop part of the website. The soft_launch branch is already up on nathalievin.com and now I can continue to work at cleaning up and tweaking what didn't go up on this branch and possibly merge it in later on.
+
+#TODO list post launch
+* Make the css into scss
+* Filter out slideshow controls to a file
+* Strip out extraneous code
+* Add sign up form
+* Mobile contact page
+* Default meta tags
+* Remove caroufredsel

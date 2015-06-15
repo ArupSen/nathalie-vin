@@ -1,4 +1,4 @@
-# for --name of website--
+# for nathalievin.com
 # by Arup Sen http://arupdesigns.co.uk
 
 User-agent: *

@@ -25,7 +25,7 @@ include_once DATAPATH.'meta_tags.php';
 ?>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-<link rel="stylesheet" href="<?php echo CSSPATH.'style.css'; ?>" type="text/css" media="screen" />
+<link rel="stylesheet" href="<?php echo CSSPATH.'test.css'; ?>" type="text/css" media="screen" />
 <link rel="stylesheet" href="<?php echo CSSPATH.'slick.css'; ?>" type="text/css" media="screen" />
 <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/da60e66c-bceb-417d-ac7e-387c37a1174d.css"/>
 </head>

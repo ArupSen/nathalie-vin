@@ -1,0 +1,27 @@
+
+// COLOURS
+$nav_color: #d9b613;
+$body_color: #999;
+
+// PLACEHOLDERS
+%center {
+  margin: 0 auto;
+}
+%copy_color {
+  color: $body_color;
+}
+%center_text {
+  text-align: center;
+}
+%relative_pos {
+  position: relative;
+}
+%absolute_pos {
+  position: absolute;
+}
+%times_new {
+  font-family: "Times New Roman";
+}
+%hr_border {
+  border-top: 1px solid #999;
+}
